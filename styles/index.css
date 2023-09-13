@@ -36,30 +36,30 @@ nav ul li:hover{
   border-bottom: 3px solid white;
 }
 .title{
-  margin-left: 160px;
+  margin-left: 120px;
   display: flex;
   flex-direction: column;
-  margin-top: 121px;
+  margin-top: 111px;
   color: white;
 
 }
 span h1{
-  font-size: 154px;
+  font-size: 100px;
 }
 span h2{
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 700;
   letter-spacing: 24px;
 
 }
 span p{
   font-weight: 400;
-  font-size: 25px;
+  font-size: 18px;
   letter-spacing: 2.5px;
 
 }
 span h3{
-  font-size: 50px;
+  font-size: 30px;
   font-weight: 700;
 }
 button{
@@ -94,7 +94,7 @@ align-items: center;
   
 .section-one h2{
   text-align: center;
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 700;
   letter-spacing: 3px;
   
@@ -108,7 +108,7 @@ align-items: center;
 .section-one p{
   margin-top: 10px;
   text-align: center;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 400;
   line-height: normal;
 
@@ -136,7 +136,7 @@ align-items: center;
 .single-room p{
   padding: 10px 0;
   color: white;
-  font-size: 60px;
+  font-size: 40px;
   text-align: center;
 
 }
@@ -161,7 +161,7 @@ align-items: center;
 
 }
 .room-two{
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   height: 800px;
   width: 90%;
   background-image:url(../images/double-room\ 1.png) ;
@@ -184,14 +184,14 @@ align-items: center;
   
 }
 .testimonial h2{
-  font-size: 60px;
+  font-size: 40px;
   font-weight: 700;
   font-style: normal;
   line-height: normal;
   margin-bottom: 10px;
 }
 .testimonial p{
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 400;
   margin-bottom: 10px;
 
